@@ -1,4 +1,13 @@
 # [Confitura 2015](http://tech.viacom.com/warsawsdc/confitura2015/)
+
+##Running
+Project use gradle wrapper to build.
+File /src/test/java/pl/astrait/superdigit/SuperdigitTest.java contains junit test.
+You can run test using:
+```
+gradlew test
+```
+
 ## Superdigit
 
 We define superdigit of an integer x using the following rules:
